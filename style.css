@@ -35,7 +35,21 @@ header:hover{
     font-size: large;
     color: black;
     border: 2px solid black;
+}
+p{
+    background: #fdf0d5;
+    color: #001d3d;
+    padding: 10px;
+    margin: 10px 0 0 10px;
+    border-radius: 10px;
+    transition: all ease-in-out 1s;
 
+}
+.details p:hover{
+    font-size: 50px;
+    border: 2px solid #3c6e71;
 
-
+}
+.details{
+    margin-top: 40px;
 }
